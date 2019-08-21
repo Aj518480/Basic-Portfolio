@@ -8,14 +8,20 @@ header{
     height:70px;
     border-bottom:solid darkgray 1px;
     background-color:white;
-   
+
 }
 
  .headercontainer{
      width:960px;
      margin: 0 auto;
+
  }
 
+ h2{
+     color:#4aaaa5;
+
+ }
+ 
 nav{
     float:right;
     padding: 20px 0 0 0;
@@ -29,7 +35,8 @@ nav{
  }
 
  h1{
-     background-color:blue;
+     background-color:#4aaaa5;
+     color:white;
      height: 30px;
      float:left;
      margin: 0;
