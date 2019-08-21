@@ -18,6 +18,13 @@ header{
 
  }
 
+ input[type=text]{
+     width:100%;
+     padding:15px;
+     border: 2px solid lightgrey;
+     box-sizing:border-box;
+ }
+
  h2{
      color:#4aaaa5;
 
