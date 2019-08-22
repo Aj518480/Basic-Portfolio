@@ -24,20 +24,26 @@ header{
 
  }
 
- 
+.RightSide{
+    float:Right;
+    padding:15px 15px 15px 15px;
+}
      
- }
 .LeftSide {
 
     float:left;
-     margin:0 15px 15px 0;
-    
-
+     padding:15px 15px 15px 15px;
+}  
+.wrapper{
+    width:430px;
+    height:630px;
 
 }
+
+
 nav{
     float:right;
-    padding: 20px 0 0 0;
+    padding: 0 15px 15px 0;
 }
   
  a{
