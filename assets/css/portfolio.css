@@ -21,24 +21,15 @@ header{
  h2{
      color:#4aaaa5;
 
-
+ }
+ img{
+     margin:31px;
+     
  }
 
-.RightSide{
-    float:Right;
-    padding:15px 15px 15px 15px;
-}
-     
-.LeftSide {
 
-    float:left;
-     padding:15px 15px 15px 15px;
-}  
-.wrapper{
-    width:430px;
-    height:630px;
 
-}
+
 
 
 nav{
@@ -69,7 +60,7 @@ section{
     width:800px;
     height:600px;
     margin: 0 auto;
-    border: 5px solid green;
+    
  
 }
 
