@@ -59,6 +59,8 @@ nav{
 
 .Picture{
 
+    height:194px;
+    width:259px;
     position:relative;
 }
 
@@ -77,7 +79,7 @@ nav{
 
 
 
-section{
+.section{
     width:800px;
     height:600px;
     margin: 0 auto;
