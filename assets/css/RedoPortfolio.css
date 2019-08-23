@@ -22,14 +22,6 @@ header{
      color:#4aaaa5;
 
  }
- img{
-     margin:31px;
-     z-index: auto
- }
-
-
-
-
 
 
 nav{
@@ -54,6 +46,37 @@ nav{
 
  }
 
+.PictureContainer{
+    height:194px;
+    width:259px;
+    float:left;
+    padding:20px;
+    margin: 22px 41px 13px 53px;
+    position: relative;
+
+}
+
+
+.Picture{
+
+    height:194px;
+    width:259px;
+    position:relative;
+}
+
+.BannerText{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width:inherit;
+    background-color:#4aaaa5;
+    color:white;
+    position:absolute;
+    bottom: -25px;
+    height:56px;
+    padding:15px 10px;
+    text-align: center;
+
+}
+
 
 
 section{
@@ -72,4 +95,7 @@ footer{
     border-top:solid #4aaaa5 10px;
     padding-top:10px;
     color:#ffffff;
-}
+    clear: both;
+    position: relative;
+    margin-top: -200px;
+    }
